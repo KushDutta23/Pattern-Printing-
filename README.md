@@ -43,8 +43,3 @@ print18 → Reverse alphabet pattern
 🔹 Special Patterns
 print21 → Hollow square
 print22 → Spiral number pattern
-🛠️ How to Run
-1. Compile
-g++ patterns.cpp -o patterns
-2. Run
-./patterns
